@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Sadman Sakib from Dhaka,Bangladesh<br><br>- 🔭 II am looking to collaborate on Web Development Projects<br>- 📚 I'm currently learning ASP.Net MVC</p>
+<p align="left">I'm Sadman Sakib from Dhaka,Bangladesh<br><br>- 🔭 II am looking to collaborate on Web Development Projects<br>- 📚 I'm currently learning ASP.Net</p>
 
 ###
 
