@@ -23,7 +23,7 @@ Feel free to connect with me. I'm also **available** at: <br>
 
 
 <h3 align="left"><img src="programming-languages.gif"  width="22" height="22"> Used Laguages :</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssakibs04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssakibs04&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false&order=5" height="150" alt="languages graph"  />
 
 
 
@@ -32,7 +32,7 @@ Feel free to connect with me. I'm also **available** at: <br>
 
 <div align="left">
  <h3 align="left"> 🔥 Streak :</h3>
-  <img src="https://streak-stats.demolab.com?user=ssakibs04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ssakibs04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
